@@ -87,7 +87,8 @@ Nome: Vinícius Arnaut Mariano                                      -->
             document.getElementById("Numero1").value = "";
             // Colocar o foco de volta no campo de entrada
             document.getElementById("Numero1").focus();
-        }
+            
+         }
     </script>
 </head>
 <body>
